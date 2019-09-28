@@ -1,0 +1,24 @@
+{
+  "name": "cj-lawn-care",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CJhtml.html",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barkerer/CJ-lawn-care.git"
+  },
+  "author": "Clayton Barker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barkerer/CJ-lawn-care/issues"
+  },
+  "homepage": "https://github.com/barkerer/CJ-lawn-care#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
