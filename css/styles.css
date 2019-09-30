@@ -29,3 +29,7 @@ color: white;
 .navbar-dark {
     background-color: #575a03;
 }
+.footer {
+    background-color:  rgb(1, 85, 12);
+    color: white;
+}
