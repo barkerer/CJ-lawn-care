@@ -39,3 +39,17 @@ body {
   background-position: right top;
   background-attachment: fixed;
   }
+  .row1about {
+      color:white;
+  }
+  .text-right {
+    margin: 50px;
+  }
+ .col-content {
+     background-color:  rgb(1, 85, 12);
+     color: White;
+ }
+ .row-content1 {
+     background-color:  rgb(1, 85, 12);
+     color: white;
+ }
