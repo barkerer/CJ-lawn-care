@@ -22,3 +22,10 @@
     left: 0;
     min-height: 300px;
 }
+.card-header {
+background-color: rgb(83, 102, 13);
+color: white;
+}
+.navbar-dark {
+    background-color: #575a03;
+}
